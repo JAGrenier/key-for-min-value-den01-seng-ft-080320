@@ -8,4 +8,5 @@ def key_for_min_value(name_hash)
     if total < value
       value += 1
     end
+end
 end 
